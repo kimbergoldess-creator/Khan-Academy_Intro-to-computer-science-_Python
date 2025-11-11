@@ -1,6 +1,8 @@
 # 🐍 Khan Academy: Python Logic & Fundamentals Journey 🤖
 
-Hello there! I'm Kimbergoldess, and this repository is a structured log of my journey learning Python programming, based on the foundational concepts from the Khan Academy "Introduction to Computer Science" track.
+Hello there! I'm Kimbergoldess, and this repository is a structured log of my journey learning Python programming, based on the foundational concepts from the **[Khan Academy "Introduction to Computer Science"]** track.
+
+Course Url: https://en.khanacademy.org/computing/intro-to-python-fundamentals
 
 My focus is on mastering the fundamentals, with an emphasis on **writing clean, efficient code** and understanding complex **flow control**—a crucial skill for my other big interests and future focuses: Ethical Hacking and AI.
 
