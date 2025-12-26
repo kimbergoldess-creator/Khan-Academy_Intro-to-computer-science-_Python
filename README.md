@@ -25,6 +25,15 @@ This repo is organized by study **sprints**, corresponding **roughly** to one we
     * **Nested Logic (The Hard Part!):** Overcame the challenge of building dependent checks, such as the **[ATM_Withdrawal_Simulator.py]** where the pre-condition (positive balance) dictates the next step.
     * **🥳 First-Try Success!** The **[Phase_2/Software_Update_Control.py]** script was my first perfect solution for nested logic, correctly managing user permission and disk space checks on the first try.
 
+### ➡️ Sprint 3: Loops & Dynamic Logic (While, For)
+
+* **Objective:** Move from static scripts to dynamic simulations, mastering repetition and iterative logic.
+* **Key Achievements:**
+    * **Iterative Control:** Implemented `while` loops for continuous processes, such as user input validation in **[Sprint_3/guess_the_number.py]** and progress tracking in **[Sprint_3/weight_tracker.py]**.
+    * **Resource Management:** Developed the **[Sprint_3/savings_tracker.py]**, mastering the use of accumulators and conditional `break` statements to stop processes once a specific goal is reached.
+    * **Complexity Management:** Solved the **[Sprint_3/shift_wage.py]** challenge, integrating loops with complex math to calculate wages across multiple shifts, including overtime logic.
+    * **The "Neebler" Challenge:** Successfully designed a natural selection simulation using nested loops and `random.randint`, managing population variations and survival probabilities—a significant step toward advanced algorithmic thinking.
+
 ### ➡️ Next Steps: Stay tuned!
 
 ---
