@@ -33,6 +33,15 @@ This repo is organized by study **sprints**, corresponding **roughly** to one we
     * **Resource Management:** Developed the **[Sprint_3/savings_tracker.py]**, mastering the use of accumulators and conditional `break` statements to stop processes once a specific goal is reached.
     * **Complexity Management:** Solved the **[Sprint_3/shift_wage.py]** challenge, integrating loops with complex math to calculate wages across multiple shifts, including overtime logic.
     * **The "Neebler" Challenge:** Successfully designed a natural selection simulation using nested loops and `random.randint`, managing population variations and survival probabilities—a significant step toward advanced algorithmic thinking.
+ 
+### ➡️ Sprint 4: Python Functions & Logic
+
+* **Objective:**  Transition from linear to modular programming, mastering data flow between functions and code reusability.
+* **Key Achievements:**
+   * **Modularity & Data Flow:** Learned to decompose complex problems into specialized functions. In **[Sprint_4_Functions/The_Healing_Station.py]**, I mastered the use of independent "helper functions" to calculate specific scores before aggregating them in a main manager function.
+   * **Functional Logic & Transformation:** Successfully implemented a "data assembly line" in **[Sprint_4_Functions/Workout_Progress_Tracker.py]**, where the output of one function (total repetitions) becomes the essential input for the next (total weight lifted).
+   * **Security Logic Integration:** Developed **[Sprint_4_Functions/Create_Your_Badge.py]**, combining user input, string normalization, and a security filter using the `in` operator to validate permissions and detect unauthorized keywords like "HACK".
+   * **Professional Documentation:** Adopted the use of Docstrings `("""...""")` to ensure every function is self-explanatory and follows industry standards for clean, maintainable code.
 
 ### ➡️ Next Steps: Stay tuned!
 
